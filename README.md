@@ -1,4 +1,6 @@
-### olá, meu nome é Ryan da Silva
+### olá, meu nome é Ryan da Silva, Atualmente estou estágiando mas estou a procura de um novo emprego
+
+### No trabalho usamos o GitLab, e por isso está meio parado aqui. Mas meus projetos pessoais são postados aqui.
 
 <div align="center">
   <a href="https://github.com/Ryan-Castro">
