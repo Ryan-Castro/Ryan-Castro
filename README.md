@@ -1,6 +1,10 @@
-### olá, meu nome é Ryan da Silva, Atualmente estou estágiando mas estou a procura de um novo emprego
+### olá, meu nome é Ryan da Silva.
 
-### No trabalho usamos o GitLab, e por isso está meio parado aqui. Mas meus projetos pessoais são postados aqui.
+<p>
+  Sou desenvolvedor FullStack utilizando como base o Javascript.</br>
+  Atualmente estou estágiando, onde minhas maiores contribuições são feitas em meu GitLab, e por isso está meio parado aqui. Mas meus projetos pessoais são postados aqui.</br>
+  Estou cursando Analista e desenvolvimento de sistema e compartilho aqui uns de meus projetos feito na faculdade
+</p>
 
 <div align="center">
   <a href="https://github.com/Ryan-Castro">
@@ -27,6 +31,9 @@
   </a>
   <a href="https://www.linkedin.com/in/ryan-da-silva-castro-3946b4257" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
+  </a> 
+  <a href="https://gitlab.com/Ryan.C.Pereira" target="_blank">
+    <img src="https://img.shields.io/badge/-gitlab-%23333?style=for-the-badge&logo=gitlab&logoColor=orange" target="_blank">
+  </a> 
 </div>
   
